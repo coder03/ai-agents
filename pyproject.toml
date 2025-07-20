@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ai-agents"
+version = "0.1.0"
+description = ""
+authors = ["coder03"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+phidata = "^2.7.6"
+groq = "^0.13.1"
+yfinance = "^0.2.51"
+duckduckgo-search = "^7.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

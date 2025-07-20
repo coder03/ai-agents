@@ -38,4 +38,5 @@ agent_team = Agent(
 )
 
 #agent_team.print_response("Summarize analyst recommendations and share the latest news for NVDA", stream=True)
-agent_team.print_response("Summarize analyst recommendations and share the latest news India stock ITC, what is the current stock price", stream=True)
+#agent_team.print_response("Summarize analyst recommendations and share the latest news India stock ITC, what is the current stock price", stream=True)
+agent_team.print_response("what is the latest news on ITC today", stream=True)
