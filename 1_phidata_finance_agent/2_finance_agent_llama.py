@@ -44,7 +44,3 @@ agent = Agent(
 agent.print_response(
     "Summarize and compare analyst recommendations and fundamentals for TSLA and Phidata. Show in tables.", stream=True
 )
-
-# agent.print_response(
-#     "what is the interinsic value of AMD, TSMC, ARM, Qualcomm, broadcom, direxon daily semiconductor bull 3X ETF, Toyota motor corporation, TSLA, SMC, alphabet, Nvdia, Intel, Apple, Unitedhealth group, Eli lilly and company, microsoft, kratos defense, Adobe, crowdstike, Palantir, nutanix, kraneshare hang seng, nova nordisk, li auto, paccar inc, honda motor co, global x robotics, hewlett packard, and cisco. Show in tables.", stream=True
-# )
